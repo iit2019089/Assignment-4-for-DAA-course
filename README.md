@@ -6,8 +6,8 @@ Assignment-4 for the Design and Analysis of Algorithms Course of 4th Semester
 **Team Members**
 |   Enrollment No.  |   Name   | GithubId |
 |   --------------  |   ----   | -------- |
-|    IIT2019087  |   Gautam Kumar | - |
-|    IIT2019088  |   Ritik Kumar | - | 
+|    IIT2019087  |   Gautam Kumar | kumargautam2024 |
+|    IIT2019088  |   Ritik Kumar | johmn123-wq | 
 |    IIT2019089  |   Redrouthu Pranav Sai | iit2019089  |
 
 **Group No-**"29"
