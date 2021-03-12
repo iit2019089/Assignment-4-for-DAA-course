@@ -28,20 +28,21 @@ Given a sorted array and a value x, the floor of x is the largest element in arr
 4. enter command g++ Group-29 DAA Assignment-4.cpp
 5. Run the executable file
 
-```
+
 Output
-```
+
 Prints the floor of a number in a random generated sorted array
-```
+
+
 **Test case**
 
 Find floor
-```
+
 Test Case-1
 Array: 1 9 14 15 25 30 39
 x: 23
 Out: 15
-```
+
 #--------------------------#
 Test Case-2
 Array: 3 10 18 24 28 34 41
@@ -58,11 +59,11 @@ The worst case time complexity for linear search approach and the divide and con
 No extra space is required for any additional array or such. so, the space complexity will be constant for both the approaches.
 Space Complexity: O(1)
 
-
+```
 ### References
 [1]    Introduction to Algorithms / Thomas H. Cormen …[et al.]. – 3rd edition.
 [2]    The Design and Analysis of Algorithms (Pearson) by A V Aho, J E Hopcroft, and J D Ullman
 [3]    Algorithm Design (Pearson) by J Kleinberg, and E Tard
 [4]    https://en.wikipedia.org/wiki/Binary_search_algorithm
 [5]    https://www.geeksforgeeks.org/floor-in-a-sorted-array/
-
+```
