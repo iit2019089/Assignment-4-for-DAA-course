@@ -37,18 +37,19 @@ Prints the floor of a number in a random generated sorted array
 **Test case**
 
 Find floor
-
+```
 Test Case-1
 Array: 1 9 14 15 25 30 39
 x: 23
 Out: 15
-
+```
 #--------------------------#
+ ```
 Test Case-2
 Array: 3 10 18 24 28 34 41
 x: 33
 Out: 28
-
+```
 ### Analysis
 
 **Time Complexity**
