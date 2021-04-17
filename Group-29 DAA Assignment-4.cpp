@@ -19,16 +19,18 @@ int floorBS(int arr[], int low, int high, int x)
 
 int main()
 {
-    int arr[7];
+    int size;
+    cin >> size;
+    int arr[size];
     arr[0] = rand() % 10;
-    for (int i = 1; i < 7; i++)
+    for (int i = 1; i < size; i++)
     {
         arr[i] = arr[i - 1] + ((rand() % 10) + 1);
     }
     int n = sizeof(arr) / sizeof(arr[0]);
-    int x = arr[0] + (rand() % (arr[6] - arr[0]));
+    int x = arr[0] + (rand() % (arr[size - 1] - arr[0]));
     int index = floorBS(arr, 0, n - 1, x);
-    for (int i = 0; i < 7; i++)
+    for (int i = 0; i < size; i++)
     {
         cout << arr[i] << " ";
     }
